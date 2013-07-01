@@ -8,9 +8,13 @@ Last updated: July 1st 2012
 
 SUMMARY
         * A/ HARDWARE REQUIREMENTS
+        
         * B/ SOFTWARE REQUIREMENTS
+        
         * C/ INSTALLING GeneQuery Office
+        
         * D/ QUICK START
+        
         * E/ CONTACT
 
 ----------------------------------------------------------------------------------
