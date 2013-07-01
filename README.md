@@ -1,4 +1,4 @@
-GeneQuery Office Advanced README
+GeneQuery Office Advanced 
 =========================
 
 Application for genomic data analysis
@@ -7,6 +7,7 @@ Application for genomic data analysis
 Last updated: July 1st 2012
 
 SUMMARY
+
         * A/ HARDWARE REQUIREMENTS
         
         * B/ SOFTWARE REQUIREMENTS
@@ -34,10 +35,12 @@ B/ SOFTWARE REQUIREMENTS
 ----------------------------------------------------------------------------------
 C/ INSTALLING GeneQuery
 
-Download the installer and launch it to have all requirements and GeneQuery Office installed in your computer launch 
+Download the installer and launch it to have all requirements and GeneQuery Office installed in your computer. 
 
 ----------------------------------------------------------------------------------
+
 D/ QUICK START
+
 ----------------------------------------------------------------------------------
 E/ CONTACT
 
