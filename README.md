@@ -50,6 +50,9 @@ Download the installer and launch it to have all requirements and GeneQuery Offi
 
 D/ QUICK START
 
+Within the menu "Help >> Getting Started" you will find detailed information for a first data analysis. Data used in the user case are available at Gene Expression Omnibus repositoy (http://www.ncbi.nlm.nih.gov/geo/)
+
+
 ----------------------------------------------------------------------------------
 E/ CONTACT
 
