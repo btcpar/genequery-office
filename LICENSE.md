@@ -1,3 +1,7 @@
+GeneQuery License Terms
+=======================
+                    
+                    
                     GNU AFFERO GENERAL PUBLIC LICENSE
                        Version 3, 19 November 2007
 
@@ -5,7 +9,7 @@
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
 
-                            Preamble
+                            PREAMBLE
 
   The GNU Affero General Public License is a free, copyleft license for
 software and other kinds of works, specifically designed to ensure
