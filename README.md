@@ -1,5 +1,5 @@
-GeneQuery Office Advanced 
-=========================
+GeneQuery Office
+================
 
 Application for genomic data analysis
 
