@@ -46,7 +46,7 @@ C/ INSTALLING GeneQuery
 
 Install all software requirements and compy the srs.R and AS_Basic.py files within the folder C:\PG (If PG folder does not exist, create it)
 
-GeneQuery Office Advanced version (for all types of Microarrays, RealTime qPCR and NGS) can be ordered at btcpar@gmail.com. Free easy to use installer will be provided.
+GeneQuery Office Advanced version (for all types of Microarrays, RealTime qPCR and NGS) can be ordered at btcpar@gmail.com. Free easy-to-use installer will be provided.
 
 ----------------------------------------------------------------------------------
 
